@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 int main (){
-	int j=1,i=0, giaithua=1;
+	int j=1,i=0;
+	long long giaithua=1;
 	double tong=0;
 	float e, x;
 	printf("nhap vao so x ");
